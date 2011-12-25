@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello shopping-list-android!</string>
+    <string name="app_name">shopping-list-android</string>
+    <string name="findauthor">find authors</string>
+    <string name="contacting_server">я буду атвитцает</string>
+</resources>
